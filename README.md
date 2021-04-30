@@ -1,2 +1,2 @@
-# Data-Structures---Data-Science-Module-WQU
+# Data-Structures---Data-Science
 The repo gives an explanation on data structures using python
